@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 Ahmad Mehio. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "FirstChildViewController.h"
 
-@interface ViewController ()
+@interface FirstChildViewController ()
 
 @end
 
-@implementation ViewController
+@implementation FirstChildViewController
 
 - (void)viewDidLoad
 {
